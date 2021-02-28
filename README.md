@@ -5,3 +5,4 @@ quarta alteracao
 quinta alteracao
 sexta alteracao
 setima alteracao
+curso git
